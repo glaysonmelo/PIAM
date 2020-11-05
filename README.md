@@ -1,2 +1,1 @@
-# PIAM
-Projeto Integrado em Aprendizado de M´aquina
+# Projeto Integrado em Aprendizado de Máquina
