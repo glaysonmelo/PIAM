@@ -1,6 +1,6 @@
 # Projeto Integrado em Aprendizado de Máquina
 
-###PROBLEMA & SOLUÇÃO
+### PROBLEMA & SOLUÇÃO
 
 
 Realizar um estudo envolvendo dados pessoais de colavoradoes profissional para mapear perfis
@@ -51,6 +51,8 @@ O setor de RH possui dados pessoais dos colaboradores e do processo de seleção
   <li>Pratica esporte</li>
 </ul>
 
-#####Exemplo
+##### Exemplo
+
+![Tabela_Dados](https://user-images.githubusercontent.com/33094333/98309849-4b1c9d80-1faa-11eb-8475-341691d020a6.JPG)
 
 ### Ferramentas
