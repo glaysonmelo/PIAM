@@ -1,23 +1,23 @@
 # Projeto Integrado em Aprendizado de Máquina
 
-PROBLEMA & SOLUÇÃO
+###PROBLEMA & SOLUÇÃO
 
 
 Realizar um estudo envolvendo dados pessoais de colavoradoes profissional para mapear perfis
 
 
-## BASE DE DADOS
+### BASE DE DADOS
 
 
 Banco de dados SQL e csv.
 
 
-## TARGET
+### TARGET
 
 Modelo que identifica o perfil de funcinários dado o preenchimento de formulários.
 
 
-## Algumas questões
+### Algumas questões
 
 <ul>
   <li>Pessoas Jovens no seu primeiro emprego geram melhores resultados?</li>
@@ -29,8 +29,28 @@ Modelo que identifica o perfil de funcinários dado o preenchimento de formulár
   <li>Evitar o preconceito (classe, cor , sexo etc)</li>
 </ul>
 
-## Pipeline
+### Dados
 
 
+O setor de RH possui dados pessoais dos colaboradores e do processo de seleção
 
-## Ferramentas
+
+<ul>
+  <li>Nome</li>
+  <li>Nascimento</li>
+  <li>Telefone</li>
+  <li>CPF</li>
+  <li>RG</li>
+  <li>CNH/Categoria</li>
+  <li>Já teve outro emprego?</li>
+  <li>Estuda atualmente</li>
+  <li>Especialização</li>
+  <li>Estado Civil</li>
+  <li>Possui rede social</li>
+  <li>Frequência do uso de celular</li>
+  <li>Pratica esporte</li>
+</ul>
+
+#####Exemplo
+
+### Ferramentas
