@@ -42,7 +42,7 @@ O setor de RH possui dados pessoais dos colaboradores e do processo de seleção
   <li>CPF</li>
   <li>RG</li>
   <li>CNH/Categoria</li>
-  <li>Já teve outro emprego?</li>
+  <li>Já teve outro emprego</li>
   <li>Estuda atualmente</li>
   <li>Especialização</li>
   <li>Estado Civil</li>
