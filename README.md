@@ -1,9 +1,23 @@
 # Projeto Integrado em Aprendizado de Máquina
 
-### PROBLEMA & SOLUÇÃO
+### PREDIÇÃO VALOR AÇÃO DA BOLSA DE VALORES
 
 
-Realizar um estudo envolvendo dados pessoais de colavoradoes profissional para mapear perfis
+Esse problema está centrado em prever o valor da Ação da empresa Itaú Unibanco (ITUB3) na bolsa de valores B3
+
+
+Para resolver esse problema, construiremos um modelo de Machine Learning que leva como entradas:
+
+<ul>
+  <li>Date</li>
+  <li>Open</li>
+  <li>High</li>
+  <li>Low</li>
+  <li>Close</li>
+  <li>Adj Close</li>
+  <li>Volume</li>
+</ul>
+
 
 
 ### BASE DE DADOS
