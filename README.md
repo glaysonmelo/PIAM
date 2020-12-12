@@ -20,9 +20,9 @@ A base de dados possui os seguintes campos:
   <li>Open - Valor de abertura da ação</li>
   <li>High - Maior valor da ação no dia</li>
   <li>Low  - Menor valor da ação no dia </li>
-  <li>Close - Valor de fechamento da ação</li>
-  <li>Adj Close - </li>
-  <li>Volume - Volume de negociações do dia</li>
+  <li>Close - Preço de fechamento da ação</li>
+  <li>Adj Close - Preço de fechamento ajustado</li>
+  <li>Volume - Volume de negociações</li>
 </ul>
 
 
