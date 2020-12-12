@@ -3,20 +3,29 @@
 ### PREDIÇÃO VALOR AÇÃO DA BOLSA DE VALORES
 
 
-Esse problema está centrado em prever o valor da Ação da empresa Itaú Unibanco (ITUB3) na bolsa de valores B3
+Esse problema está centrado em prever o valor da Ação da empresa Itaú Unibanco (ITUB3) na bolsa de valores B3.
+Essa previsão é um modelo academico e não deve ser utilizado como base para e compra e vendas de ações, pois o valor de uma ação
+depende de N fatores e neste modelo foi levado em concideração somente dos dados historicos da ação.
 
 
-Para resolver esse problema, construiremos um modelo de Machine Learning que leva como entradas:
+### BASE DE DADOS
+
+Foi extraido do site da yahoo finance os dados historicos da ação ITUB3 do periodo  01/2010 a 12/2020
+
+A base de dados possui os seguintes campos:
+
 
 <ul>
-  <li>Date</li>
-  <li>Open</li>
-  <li>High</li>
-  <li>Low</li>
-  <li>Close</li>
-  <li>Adj Close</li>
-  <li>Volume</li>
+  <li>Date - Data do Pregão</li>
+  <li>Open - Valor de abertura da ação</li>
+  <li>High - Maior valor da ação no dia</li>
+  <li>Low  - Menor valor da ação no dia </li>
+  <li>Close - Valor de fechamento da ação</li>
+  <li>Adj Close - </li>
+  <li>Volume - Volume de negociações do dia</li>
 </ul>
+
+
 
 
 
