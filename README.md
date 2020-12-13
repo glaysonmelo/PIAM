@@ -12,7 +12,7 @@ depende de N fatores e neste modelo foi levado em concideração somente os dado
 
 ### BASE DE DADOS
 
-Foi extraido do site da Yahoo Finance os dados historicos do índice referente ao periodo de  01/2010 a 12/2020
+Foi extraido do site da Yahoo Finance os dados historicos do índice IBOV, referente ao periodo de 01/2010 a 12/2020
 
 A base de dados possui os seguintes campos:
 
