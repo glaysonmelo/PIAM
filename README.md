@@ -2,6 +2,8 @@
 
 ### PREDIÇÃO DO PREÇO DE FECHAMENTO DO ÍNDICE IBOV
 
+O objetivo é utilizar machine learning para prever o preço de fechamento do indice bovespa - IBOV.
+
 ### PROBLEMA
 
 Esse problema está centrado em prever o preço de fechamento do índice IBOV na bolsa de valores brasileira - B3.
