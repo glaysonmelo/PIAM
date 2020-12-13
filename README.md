@@ -2,7 +2,10 @@
 
 ### PREDIÇÃO DO PREÇO DE FECHAMENTO DO ÍNDICE IBOV
 
-O objetivo é utilizar machine learning para prever o preço de fechamento do indice bovespa - IBOV.
+Índice Bovespa (Ibovespa) é o mais importante indicador do desempenho médio das cotações das ações negociadas na B3 - Brasil, Bolsa, Balcão. É formado pelas ações com maior volume negociado nos últimos meses. O valor atual representa a quantia, em moeda corrente, de uma carteira teórica de ações, constituída em 2 de janeiro de 1968, a partir de uma aplicação hipotética.
+
+
+O objetivo deste trabalho é utilizar Machine Learning para prever o preço de fechamento do indice bovespa - IBOV.
 
 ### PROBLEMA
 
