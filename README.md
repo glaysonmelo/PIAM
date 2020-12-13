@@ -17,11 +17,11 @@ A base de dados possui os seguintes campos:
 
 <ul>
   <li>Date - Data do Pregão</li>
-  <li>Open - Valor de abertura da ação</li>
-  <li>High - Maior valor da ação no dia</li>
-  <li>Low  - Menor valor da ação no dia </li>
+  <li>Open - Preço de abertura da ação</li>
+  <li>High - Maior preço da ação no dia</li>
+  <li>Low  - Menor preço da ação no dia </li>
   <li>Close - Preço de fechamento da ação</li>
-  <li>Adj Close - Preço de fechamento ajustado</li>
+  <li>Adj Close - Preço de fechamento da ação ajustado</li>
   <li>Volume - Volume de negociações</li>
 </ul>
 
