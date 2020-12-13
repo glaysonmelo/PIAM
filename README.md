@@ -48,4 +48,6 @@ Precisamos desta etapa para concluir o quão preciso nosso modelo opera em novos
 
 Depois que o modelo é treinado, podemos usar para prever o valor do índice basedo nos dados de entrada.
 
+Finalmente, o gráfico como as previsões testadas são distribuídas e como a regressão está se saindo, como na seguinte captura de tela:
 
+![alt text](http://url/to/img.png)
