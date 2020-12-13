@@ -2,11 +2,11 @@
 
 ### PREDIÇÃO DO PREÇO DE FECHAMENTO DO ÍNDICE IBOV
 
+### PROBLEMA
 
 Esse problema está centrado em prever o preço de fechamento do índice IBOV na bolsa de valores brasileira - B3.
 Essa previsão é um modelo acadêmico e não deve ser utilizado como base para a compra e vendas do índice, pois o preço de uma ação
 depende de N fatores e neste modelo foi levado em concideração somente os dados historicos para prever o preço.
-
 
 ### BASE DE DADOS
 
