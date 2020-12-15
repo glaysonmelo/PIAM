@@ -48,8 +48,8 @@ Treinar o modelo é um processo de execução do algoritmo com dados de treiname
 Neste experimento, utilizamos os três algoritmos
 
 <ul>
+  <li>Rede Neural</li>  
   <li>Rede Neural Hyper Parameters</li>
-  <li>Rede Neural</li>
   <li>Regressao Linear</li>  
 </ul>
 
