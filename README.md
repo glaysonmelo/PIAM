@@ -43,15 +43,17 @@ A construção do modelo inclui obter os dados, tratar os dados, transformar os 
 
 ### 2.0 TREINAR O MODELO
 
-Treinar o modelo é um processo de execução do algoritmo escolhido em dados de treinamento (com valores do índice conhecidos) para ajustar os parâmetros do modelo.
+Treinar o modelo é um processo de execução do algoritmo com dados de treinamento (com valores do índice ibovespa conhecidos) para ajustar os parâmetros!
 
-Neste experimento, utilizamos os três
+Neste experimento, utilizamos os três algoritmos
 
 <ul>
   <li>Rede Neural Hyper Parameters</li>
   <li>Rede Neural</li>
   <li>Regressao Linear</li>  
 </ul>
+
+No final, selecionamos o algoritimo que teve o melhor Coeficiente de determinação.
 
 ### 3.0 AVALIANDO O MODELO
 
