@@ -45,6 +45,12 @@ A construção do modelo inclui obter os dados, tratar os dados, transformar os 
 
 Treinar o modelo é um processo de execução do algoritmo escolhido em dados de treinamento (com valores do índice conhecidos) para ajustar os parâmetros do modelo.
 
+<ul>
+  <li>Rede Neural Hyper Parameters</li>
+  <li>Rede Neurala</li>
+  <li>Regressao Linear</li>  
+</ul>
+
 ### 3.0 AVALIANDO O MODELO
 
 Precisamos desta etapa para concluir o quão preciso nosso modelo opera em novos dados. Para fazer isso, o modelo da etapa anterior é executado em outro conjunto de dados que não foi usado no treinamento. Este conjunto de dados também contém valores do índice conhecidos.
