@@ -61,7 +61,7 @@ Precisamos desta etapa para concluir o quão preciso nosso modelo opera em novos
 
 ### 4.0 CONSUMINDO O MODELO
 
-Depois que o modelo é treinado, podemos usar para prever o valor do índice basedo nos dados de entrada.
+Depois que o modelo é treinado, podemos usar para prever o valor do índice baseado nos dados de entrada.
 
 Finalmente, o gráfico como as previsões testadas como a regressão está se saindo
 
