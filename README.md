@@ -15,7 +15,7 @@ depende de N fatores e neste trabalho foi levado em concideração somente os da
 
 ### BASE DE DADOS
 
-Foi extraido do site da Yahoo Finance os dados historicos do índice Bovespa, referente ao periodo de 01/2010 a 12/2020
+Foi extraido do site Yahoo Finance os dados históricos do índice Bovespa (IBOV), referente ao periodo de 01/2010 a 12/2020
 
 A base de dados possui os seguintes campos:
 
