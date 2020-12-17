@@ -53,7 +53,7 @@ Neste experimento, utilizamos os três algoritmos
   <li>Regressao Linear</li>  
 </ul>
 
-No final, selecionamos o algoritmo que teve o melhor Coeficiente de determinação.
+Após executar os três algoritmos, selecionamos o Regressão Linear que obteve o melhor Coeficiente de determinação.
 
 ### 3.0 AVALIANDO O MODELO
 
